@@ -2,7 +2,13 @@
 
 generate document using PullRequest body.
 
-ollect PullRequest body and write file.
+Collect PullRequest body and write file.
+
+## Why
+
+I think that you should write description of design and coding in Pull Request's body.
+Because it is useful for review.
+So, this tool get Pull Request information for documentation.
 
 ## Usage
 
