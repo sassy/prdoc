@@ -1,5 +1,7 @@
 # go-prdoc
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/sassy/prdoc)](https://goreportcard.com/report/github.com/sassy/prdoc)
+
 generate document using PullRequest body.
 
 Collect PullRequest body and write file.
